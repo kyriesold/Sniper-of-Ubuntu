@@ -14,6 +14,7 @@ OneBitBranchPredictor::~OneBitBranchPredictor()
 bool OneBitBranchPredictor::predict(IntPtr ip, IntPtr target)
 {
    UInt32 index = ip % m_bits.size();
+   //printf("called predit %d %d \n",m_bits.size(),index);
    return m_bits[index];
 }
 

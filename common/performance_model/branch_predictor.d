@@ -36,6 +36,7 @@
  /home/huweim/Desktop/sniper/common/performance_model/branch_predictors/simple_bimodal_table.h \
  /home/huweim/Desktop/sniper/common/performance_model/branch_predictors/pentium_m_loop_branch_predictor.h \
  /home/huweim/Desktop/sniper/common/performance_model/branch_predictors/lpb.h \
+ /home/huweim/Desktop/sniper/common/performance_model/branch_predictors/perceptron_branch_predictor.h \
  /home/huweim/Desktop/sniper/common/config/config.hpp \
  /home/huweim/Desktop/sniper/common/config/key.hpp \
  /home/huweim/Desktop/sniper/common/config/section.hpp \
